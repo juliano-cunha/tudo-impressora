@@ -1,0 +1,335 @@
+  body{
+    /* background-color: #4B4949; */
+    background-color:#F7F8FA;
+    
+  }
+ 
+  a{
+    text-decoration: none;
+  }
+  p{
+    font-family: sofia-pro, Roboto, sans-serif;
+    font-size: 1rem;
+    line-height: 30px;
+    font-weight: 300;
+    letter-spacing: 0.005rem;
+  }
+
+  .container{
+    padding: 2% 5% 2% 5%;
+  }
+
+
+                             /*Rodapé*/
+
+
+.abaFerramentas{
+    background-color: #4B4949;
+    margin-top: 2em;
+    padding: 2% 25% 5% 25% ;
+    font-size: 18px;
+    
+  }
+  .listTitle{
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    padding-bottom: 2em;
+    padding-top: 1em;
+  }
+  .itemFerramentas{
+    color: white;
+  }
+  .page-footer{
+    background-color: #3EB489;
+    color: white;
+    font-weight: bold;
+  }
+
+  
+           /* Inicio estilos projeto blog */
+                    /*blog content*/
+
+
+                              /* Navegação */
+
+
+.navbar{
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #4B4949;
+  }
+  .nav-item{
+    padding: 10px;
+    font-weight: bolder;
+    color: white;
+  }
+  .nav-link{
+    color: white;
+    text-decoration: none;
+  }
+  .nav-link:hover{
+    color: white;
+  }
+  #bannerPrincipal{
+    height: 250px;
+  }
+
+  /* dropdown */
+  .dropdown-menu{
+    background-color: #4B4949;
+    border: none;
+  }
+  .dropdown-item{
+    font-weight: bold;
+    color: white;
+    background-color: #4B4949;
+  }
+  .linkNav{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+  }
+
+  .linkNav:hover{
+    color: white;
+    }
+  .imgNav{
+    border-radius: 2px;
+  }
+                  
+                              /* CARDS */
+
+
+  #blogPostListTitle{
+    font-weight: bold;
+    color: #4B4949;
+    display: inline-block;
+    padding-left: 5px;
+    padding-bottom: 5px;
+  }
+  .card{
+      background-color: white;
+      border-style: none;
+      border-radius: 15px;
+  }
+ 
+  .card-header{
+      text-align: center;
+      background-color: #3EB489;
+      color: white;
+      font-weight: bold;
+  }
+  .card-body{
+    background-color: white;
+    border-radius: 15px;
+  }
+  
+  .card-footer{
+    background-color: white;
+  }
+
+  #btnPesquisar{
+    background-color: #3EB489;
+  }
+  
+
+  .card-img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px 10px 0px 0px;
+  }
+.card-title{
+    font-weight: bold;
+}
+
+.link-post{
+  color: black;
+  text-decoration: none;
+}
+
+.link-post:hover{
+  color: red;
+  text-decoration: none;
+}
+
+
+                                  /* SIDECARD */
+
+
+.sideCardPost{
+  margin-top: 1em;
+}
+.sideCard{
+  background-color: none;
+}
+.sideCardImg{
+width: 100%;
+height: 100%;
+border-radius: 10px;
+}
+
+.sideText{
+  font-weight: bold;
+  color: #4B4949;
+  margin: 0%;
+}
+
+.sideTitle{
+  font-weight: bold;
+  color: #4B4949;
+  padding-left: 1em;
+  margin-top: 1em;
+}
+.searchIcon{
+  color: white;
+}
+
+                                  /*Carrousel*/
+
+.carousel{
+    margin-bottom: 2em;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.carousel-item{
+    width: 100%;
+    height: 380px;
+   
+}
+.carousel-caption{
+  text-align: left;
+  font-size: 22px;
+  font-weight: bold;
+  text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.carouselTitle{
+  font-weight: bold;
+}
+
+
+                         /* CONTEUDO */
+
+.iconTitle{
+  color:#4B4949;
+  font-size: 2em;
+  display: inline-block;
+}
+
+
+.postHeaderImg{
+  width: 15%;
+  height: 100%;
+  margin-left: 40%;
+  margin-right: 40%;
+  border-radius: 10px 10px 0px 0px;
+}
+.footerIcone{
+  color:#4B4949;
+  font-size: 22px;
+  padding: 5px;
+
+}
+
+.postContent{
+  background-color: white;
+  border-radius: 10px;
+
+}
+
+.postContentHeader{
+  color: #4B4949;
+  text-align: center;
+  padding: 2em;
+}
+.postContentTitle{
+  font-weight: bold;
+}
+.postSubtitle{
+  color: #4B4949;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.postSub{
+  text-align: center;
+  margin-top: 2em;
+  color: #3EB489;
+  font-weight: bold;
+}
+
+.postText{
+  padding: 1% 5% 1% 5%;
+  font-size: 17px;
+
+}
+.textList{
+  margin-left: 2em;
+}
+.textList li{
+  list-style-type: square;
+}
+.postImg{
+  padding: 1% 5% 1% 5%;
+  width: 100%;
+  height: 20%;
+
+}
+.postFooter{
+  font-weight: bold;
+  color: #4B4949;
+  padding: 1em;
+}
+/* FORMULARIO */
+  .formContainer{
+  background-color: white;
+  border-radius: 10px;
+  }
+  form{
+    padding: 2em 5em 2em 5em;
+  }
+
+  input{
+    width: 100%;
+  }
+  .label-title{
+    text-align: center;
+    font-weight: bold;
+  }
+  label{
+    font-weight: bold;
+  }
+  .btnSubmit{
+    margin-top: 1em ;
+  }
+
+/* Resultado */
+.tableResult{
+  width: 80%;
+  margin: 2% 10% 5% 10% ; 
+  border-style: none;
+  
+}
+.tableResult tr th{
+  background-color: #0a94ee;
+  color: #F7F8FA;
+  border-style: none;
+}
+.tableResult tr td{
+  border: 1px solid #ddd;
+}
+#dispResultado{
+  display: none;
+}
+
+#ex-p{
+  margin-top: 5%;
+  
+}
+
+table, th, td{
+  border: 1px solid;
+  padding: 15px;
+  text-align: center;
+}

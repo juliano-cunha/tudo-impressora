@@ -1,0 +1,76 @@
+Quais as melhores impressoras para uso em casa?
+
+Comprar uma nova impressora as vezes pode se tornar um desafio, esperamos com esse artigo ajudar
+na escolha de uma impressora para uso em casa, home/office, com uma boa qualidade de impressão, durabilidade e custo benefício, tanto do equipamento
+quando aos suprimentos da máquina e que consigam suprir o uso diário em casa.
+
+Aqui também ficam alguns conceitos importantes de se conhecer antes de escolher uma impressora, para não cair em furadas na hora de toma ruma decisão.
+
+Termos importantes
+
+Jato de tinta ou Laser?
+
+São os dois modelos de impressora mais comuns utilizados hoje em dia. Basicamente a impressora laser se utiliza de toner (pó de toner) para realizar a impressão, enquanto 
+as impressoras jato de tinta se utilizam de tintas corante ou pigmentadas para realizar a impressão, podendo ser em forma de cartuchos, bulks, garrafas.
+
+Velocidade de impressão(PPM)
+Número de páginas por minuto que podem se impressas, costuma ser uma média da velocidade com qual a impressora consegue trabalhar em condições normais do dia a dia,
+costuma vir descrito na embalagem da impressora, pelo próprio fabricante, mas vale lembrar que esse valor pode ser diferente da realidade, dependendo das condições
+utilizadas na hora da impressão, tipo de impressão, manutenção da máquina.
+
+Custo por página (cpp)
+Custo médio aproximado por página impressa, também costuma ser informado nas embalagens, vale lembrar que nesse cálculo normalmente não são utilizados todas as variáveis
+possíveis para se chegar em um valor bem próximo do real, pode utilizar nossa calculadora (aqui) para ter uma ideia melhor de valor.
+
+Duplex
+Mecanismo de impressão frente e verso da impressora, pode ser automático ou manual, costumado dizer que a impressora é duplex quando ela faz o processo de impressão
+frente e verso automáticamente, no processo manual é necessário pausar a impressão no meio da mesma virar a folha e recolocar na impressora, fazendo o processo ser muito lento
+
+Impressoras recomendadas
+Canon G3111
+(img)
+Tabela
+Cor: Colorido
+Tecnologia de impressão: Jato de tinta
+Tipo de folha: A4
+Conectividade: USB,ethernet, WIFI
+Rendimento: 12k mono 8 cor
+Scanner: Sim
+
+Descrição/review
+De longe a melhor impressora atualmente, possui um valor elevado para uso em casa, mas é uma máquina muito completa com qualidade altissima e não costuma ter
+problemas de manutenção se instalada corretamente, além de possuir um custo por página muito baixo e durabilidade de mais de 12 mil páginas por carga de tinta,
+também possui scanner, o software de instalação é bem intuitivo e as tintas não secam na impressora.
+
+Link amazon.
+
+
+Tópicos: (filtrar o que presta depois)
+
+(OK)O que é bulk ink?
+Jato de tinta ou laser?(aprofundado)
+Tamanhos e tipos de papel.
+Como reduzir o custo de impressão na sua empresa?
+Melhores impressoras para grande volumes.
+Melhores impressoras 2020.
+Melhores impressoras para impressões em A3.
+O que é um plotter?
+Melhores impressoras tipo plotter.
+O que é airPrint?
+Melhores impressoras Laser
+Melhores impressoras jato de tinta.
+Boas impressoras de baixo custo.
+Melhores impressoras para fotos
+Novas impressoras por marca(canon,epson,kyocera,HP)
+Review impressora especifica(com mais imagens do site da fabricante).
+Quando devo comprar uma nova impressora?(https://www.ldproducts.com/blog/when-should-i-buy-a-new-printer/)
+Impressoras em promoção na black friday()14:00 16/11/202014:00 16/11/2020
+Dicas para manter um parque de impressão na empresa?
+Tutoriais: Como limpar a cabeça de impressora das impressoras canon, epson, e outras.
+Dicas para resolver problemas comuns das impressoras.
+Folhas saindo enroladas/tortas impressora laser.
+Como descartar corretamente impressoras antigas.
+Como descartar cartuchos vazios, garrafas de tinta e toners (https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2015/07/veja-como-descartar-cartuchos-vazios-de-impressoras-de-forma-correta.html)
+
+
+
